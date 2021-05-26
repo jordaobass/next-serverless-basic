@@ -1,0 +1,17 @@
+{
+  "name": "9hiu2an-psk1zzb",
+  "hash": "ogy435Oo7EsgJMkxX4Bq5d18wa8SY9DrULMOXo24kPs=",
+  "description": "API Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "C:\\PROJETOS\\PROJETOS_REACT_NEXT\\nextserveles\\.serverless_nextjs\\api-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::717533472169:role/9hiu2an-ttz9u4a"
+  },
+  "arn": "arn:aws:lambda:us-east-1:717533472169:function:9hiu2an-psk1zzb",
+  "region": "us-east-1"
+}
